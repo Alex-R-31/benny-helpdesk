@@ -1,4 +1,7 @@
+# This branch is deprecated, please use master
+
 # How to write Benny Documentation
+
 Thanks to [Davien](https://github.com/RealSGII2) for designing our helpdesk.
 
 [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/benny-discord/benny-helpdesk)
