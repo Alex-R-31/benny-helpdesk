@@ -21,5 +21,6 @@ module.exports = withMDX({
         }
 
         return config
-    }
+    },
+    distDir: 'dist'
 })
